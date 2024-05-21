@@ -16,16 +16,6 @@
 --- xotosphere : middle spaces where diverse subjects live (organization)
 ----- xoto{app_name}-{context} : github organizations with a cluster of apps based on their designated universe subject (planet)
 ```
-<hr>
-
-highlights :
-
-- https://github.com/xotosphere/xotoboil-multifront
-- https://github.com/xotosphere/xotoscript-action-release
-- https://github.com/xotosphere/xotoscript-refactor-comments
-- https://github.com/xotosphere/xotoboil-storybook-stencil
-- https://github.com/xotosphere/xotoboil-monorepo-lerna
-- https://github.com/xotosphere/xotovim-simple
 
 <hr>
 
