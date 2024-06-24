@@ -33,12 +33,12 @@
 - 🐋 @xotodock : docker based files
 - 🏡 @xotopad : home share
 - 💬 @xotomachine : machine based apps
-- 📫 @xotomicro : microservice software
+- 📫 @xotoboil : microservice software
 - 📄 @xotopedia : encyclopedia of things
 - ⚡ @xotopost : current job work
 - 🧍🏼‍♂️ @xotojob : jobs worth knowing
 - 🦁 @xotoscript : scripts for everyone
-- 💺 @xototemp : temporary bin
+- 💺 @xotopoc : temporary bin
 - 🌱 @xotomock : mocking projects
 - 📖 @xotoprog : progress and learning of new material
 - 🔥 @xotostack : stack of repos for xotosphere
