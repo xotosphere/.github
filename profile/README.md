@@ -12,9 +12,9 @@
 
 ```bash
 # structure 🚀 :
-- xotoverse : top level company name (profile)
+- xotoverse : top level name (profile)
 --- xotosphere : middle spaces where diverse subjects live (organization)
------ xoto{app_name}-{context} : github organizations with a cluster of apps based on their designated universe subject (planet)
+----- xoto{app_name}-{context}-{detail} : github organizations with a cluster of apps based on their designated universe subject (planet)
 ```
 
 <hr>
